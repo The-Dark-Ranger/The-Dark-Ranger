@@ -28,12 +28,12 @@ I'm a **Cybersecurity Analyst and Consultant** specializing in penetration testi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Dark-Ranger&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Dark-Ranger&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=The-Dark-Ranger&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Dark-Ranger&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=The-Dark-Ranger&theme=dark&hide_border=false" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=The-Dark-Ranger&theme=dark&hide_border=false" alt="streak stats" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -51,7 +51,5 @@ I'm a **Cybersecurity Analyst and Consultant** specializing in penetration testi
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=The-Dark-Ranger&icon=0&color=0" alt="visit count" />
-  </a>
+  <sub>Thanks for stopping by — the profile view count above tracks visits to this page.</sub>
 </p>
