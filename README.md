@@ -36,12 +36,6 @@ I'm a **Cybersecurity Analyst and Consultant** specializing in penetration testi
   <img src="https://streak-stats.demolab.com/?user=The-Dark-Ranger&theme=dark&hide_border=false" alt="streak stats" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Dark-Ranger&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
-</p>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
