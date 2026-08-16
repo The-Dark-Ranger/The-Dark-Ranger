@@ -10,12 +10,12 @@
 
 ### 🕵️ About Me
 
-I'm a **Cybersecurity Analyst and Consultant** specializing in penetration testing and helping organizations adopt secure, resilient digital practices. Alongside offensive security work, I build software — from honeypots to AI-powered threat detection systems — and lead in the tech community.
+I'm a **Cybersecurity Analyst and Consultant** specializing in penetration testing and helping organizations adopt secure, resilient digital practices. Alongside offensive security work, I build software, from honeypots to AI-powered threat detection systems, and lead in the tech community.
 
-- 🔐 **Penetration Testing** — offensive security assessments focused on real, actionable risk reduction
-- 🧪 **Security Research & Development** — honeypots, detection tooling, and AI-powered threat detection systems
-- 🌍 **Community Leadership** — Co-Lead of IEEEXtreme 18, Leader of IEEEXtreme 19, and a WEF Global Shaper
-- 🚀 **Full-stack Development** — building tools and products end-to-end, from backend to polished UI
+- 🔐 **Penetration Testing** - offensive security assessments focused on real, actionable risk reduction
+- 🧪 **Security Research & Development** - honeypots, detection tooling, and AI-powered threat detection systems
+- 🌍 **Community Leadership** - Co-Lead of IEEEXtreme 18, Leader of IEEEXtreme 19, and a WEF Global Shaper
+- 🚀 **Full-stack Development** - building tools and products end-to-end, from backend to polished UI
 
 ---
 
